@@ -1,0 +1,15 @@
+.header-img {
+    height: 170px;
+    transition: height 2s;
+    }
+    .header-portada{
+    display: flex;
+    background-image: url(./img/portada1-.jpg);
+    height: 100%;
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    justify-content: space-between; 
+    }
+  
